@@ -9,7 +9,7 @@ const Nav = (props) => {
       <NavBar>
         <Date>{date}</Date>
         <div>
-            <Link href="https://github.com/elderdeux/nasa-photo-of-the-day/tree/elderdeux">View Code</Link>
+            <Link href="https://github.com/elderdeux/nasa-photo-of-the-day">View Code</Link>
         </div>
       </NavBar>  
     )
